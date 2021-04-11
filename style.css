@@ -1,0 +1,53 @@
+.screen{
+    position: absolute;
+    height: 525px;
+        width:350px;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        background-color: #f9f9f9;
+        border-radius: 5px;
+        box-shadow: 5px 5px 30px -1px #888888;
+}
+.boxed{
+    margin-top: 98%;
+    background-color: white;
+    height: 150px;
+    margin-left: 6px;
+    text-align: center;
+    text-justify: inter-word;
+    width: 339px;
+}
+button{
+background-color:#D22B2B;
+color: white;
+padding: 12px;
+width: 280px;
+border: none;
+text-align: center;
+}
+h1{
+    color: #D22B2B;
+    margin-top: 28%;
+    text-align: center;
+}
+input{border: none;
+padding: 15px;
+margin-left: 15px;
+width: 290px ;}
+#i1{
+    margin-top: 36px;
+}
+#b2{
+    margin-left: 30px;
+}
+.boxedhome{
+    margin-top: -17px;
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    width: 349px;
+}
+#b3{
+   margin-top: 24%;
+}
